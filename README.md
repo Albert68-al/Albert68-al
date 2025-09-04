@@ -51,9 +51,9 @@ I love working on **frontend & backend** projects and exploring **AI & prompt en
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Albert68-aE&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Albert68-al&show_icons=true&theme=tokyonight" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert68-al&layout=compact&theme=tokyonight" alt="langs" />
-  <img src="https://streak-stats.demolab.com?user=Albert68-aE&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Albert68-al&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 ---
