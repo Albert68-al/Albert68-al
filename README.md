@@ -61,7 +61,7 @@ I love working on **frontend & backend** projects and exploring **AI & prompt en
 ## 🌐 Let’s Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/albert-mukamba-dev68)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]((https://devalbert.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devalbert.netlify.app)
 
 ---
 
