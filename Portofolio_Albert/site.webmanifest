@@ -1,0 +1,25 @@
+{
+    "name": "Portfolio Albert - Web Designer & Développeur",
+    "short_name": "Portfolio Albert",
+    "description": "Portfolio professionnel d'Albert Mukamba - Web Designer & Développeur Full-Stack",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0f1624",
+    "theme_color": "#64ffda",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "categories": ["business", "productivity", "utilities"],
+    "lang": "fr",
+    "dir": "ltr"
+}

@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://votre-domaine.com/sitemap.xml
+
+# Optimisation pour les moteurs de recherche
+Disallow: /documents/
+Disallow: /images/*.jpg
+Allow: /images/hero.png
+Allow: /images/maquete1.png
+Allow: /images/mygestion.png
+Allow: /images/albert_profil-1.jpg
+
+# Cache control
+Crawl-delay: 1

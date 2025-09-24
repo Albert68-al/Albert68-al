@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Non Trouvée - Portfolio Albert</title>
+    <meta name="description" content="Page non trouvée - Portfolio Albert">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <style>
+        .error-container {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 20px;
+        }
+        .error-content {
+            max-width: 600px;
+        }
+        .error-code {
+            font-size: 8rem;
+            color: var(--accent-color);
+            margin-bottom: 20px;
+            text-shadow: 0 0 20px var(--shadow-color);
+        }
+        .error-message {
+            font-size: 1.5rem;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+        .error-description {
+            font-size: 1.1rem;
+            margin-bottom: 40px;
+            color: #ccc;
+        }
+        .back-home {
+            display: inline-block;
+            background-color: transparent;
+            color: var(--accent-color);
+            border: 2px solid var(--accent-color);
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+            font-weight: bold;
+        }
+        .back-home:hover {
+            background-color: rgba(100, 255, 218, 0.1);
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px var(--shadow-color);
+        }
+    </style>
+</head>
+<body>
+    <div class="error-container">
+        <div class="error-content">
+            <div class="error-code">404</div>
+            <h1 class="error-message">Page Non Trouvée</h1>
+            <p class="error-description">
+                Oups ! Il semble que la page que vous recherchez n'existe pas ou a été déplacée.
+                <br>Ne vous inquiétez pas, vous pouvez toujours naviguer vers d'autres sections de mon portfolio.
+            </p>
+            <a href="/" class="back-home">
+                <i class="fas fa-home"></i> Retour à l'Accueil
+            </a>
+        </div>
+    </div>
+</body>
+</html>
